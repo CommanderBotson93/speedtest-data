@@ -631,3 +631,4 @@ timestamp,download_mbps,upload_mbps,ping_ms,jitter_ms,server
 2026-07-08 03:57:19,50.8,22.35,34.82,0.01,Denver; USA (Sharktech)
 2026-07-08 05:58:10,47.35,22.08,35.18,0.55,Los Angeles; USA (Sharktech)
 2026-07-08 07:59:01,49.57,22.19,35.18,0.38,Denver; USA (Sharktech)
+2026-07-08 10:00:11,43.68,3.23,595.73,35.54,Los Angeles; United States (1) (Clouvider)
